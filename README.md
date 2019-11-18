@@ -19,3 +19,6 @@ app.tenminuteswalk(['w', 's', 'e', 's', 's', 'e', 's', 'w', 'n', 'n']) # => fals
 app.tenminuteswalk(['w', 's']) # => false
 ```
 # 10minutes_walk
+
+
+# test
